@@ -1,4 +1,4 @@
-module visitorip
+module github.com/00LT00/visitorip
 
 go 1.14
 
